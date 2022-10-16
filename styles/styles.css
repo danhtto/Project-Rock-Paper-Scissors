@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    width: 100px;
+    padding: 10px;
+}
+#buttons {
+    display: flex;
+    justify-content: space-around;
+}
